@@ -65,12 +65,12 @@ export default function Home() {
             Make a Payment
           </a>
 
-          <a
+          {/* <a
             href="/summary"
             className="px-6 py-3 bg-white border rounded-lg text-gray-700 hover:bg-gray-100 transition"
           >
             View Documentation
-          </a>
+          </a> */}
         </div>
 
       </section>
